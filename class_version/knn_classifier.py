@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-KNN Classifier — Video Game Genre Prediction
+KNN Classifier: Video Game Genre Prediction
 CSC525 Assignment: Option 2
 
 Usage:

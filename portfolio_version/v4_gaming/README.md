@@ -1,10 +1,10 @@
-# V4 — Game Recommendation (Full Circle)
+# V4: Game Recommendation (Full Circle)
 
 Concept: full-circle evolution of the class assignment. Starts with the same demographic cold-start
 features, then layers in behavioral signals specific to gaming. This version closes the loop between
 the CSC525 assignment and the complete pipeline vision.
 
-## Cold-Start Features (Stage 1 — mirrors class assignment)
+## Cold-Start Features (Stage 1, mirrors class assignment)
 
 | Feature | Type | Notes |
 |---------|------|-------|
@@ -51,4 +51,4 @@ and session hours, completion rate, and genre time replace the physical attribut
 
 ## Status
 
-Scaffolded — location encoding and dataset design in progress.
+Scaffolded; location encoding and dataset design in progress.

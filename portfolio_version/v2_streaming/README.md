@@ -1,4 +1,4 @@
-# V2 — Long-Form Streaming (Movie / Series Recommendation)
+# V2: Long-Form Streaming (Movie / Series Recommendation)
 
 Concept: movie and series recommender for a streaming platform.
 
@@ -33,4 +33,4 @@ Concept: movie and series recommender for a streaming platform.
 
 ## Status
 
-Scaffolded — dataset selection in progress.
+Scaffolded; dataset selection in progress.

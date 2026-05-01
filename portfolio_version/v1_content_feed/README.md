@@ -1,4 +1,4 @@
-# V1 — Short-Form Content Feed (Social / Video)
+# V1: Short-Form Content Feed (Social / Video)
 
 Concept: short-form video / social post recommender modeled after how a content feed might behave.
 
@@ -37,4 +37,4 @@ Signals captured once a user starts interacting:
 
 ## Status
 
-Scaffolded — dataset design in progress.
+Scaffolded; dataset design in progress.

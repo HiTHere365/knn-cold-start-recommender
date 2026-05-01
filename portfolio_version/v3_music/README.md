@@ -1,7 +1,7 @@
-# V3 — Mood-Aware Music Recommendation
+# V3: Mood-Aware Music Recommendation
 
 Concept: music recommender that incorporates time-of-day and audio vibe signals to infer user mood
-and suggest contextually appropriate music — going beyond genre to emotional/temporal context.
+and suggest contextually appropriate music, going beyond genre to emotional/temporal context.
 
 ## Cold-Start Features (Stage 1)
 
@@ -20,7 +20,7 @@ and suggest contextually appropriate music — going beyond genre to emotional/t
 | day_of_week | categorical | weekday vs. weekend changes listening patterns |
 | skipped_at_pct | float | where in the track the user skipped |
 | replayed | bool | |
-| volume_level | float | normalized — high volume correlates with energy preference |
+| volume_level | float | normalized; high volume correlates with energy preference |
 | saved_to_library | bool | |
 | added_to_playlist | bool | |
 | audio_energy | float | track-level feature: low=calm, high=energetic |
@@ -46,4 +46,4 @@ Use inferred mood as an additional feature for the recommendation model.
 
 ## Status
 
-Scaffolded — mood taxonomy and audio feature sourcing in progress.
+Scaffolded; mood taxonomy and audio feature sourcing in progress.

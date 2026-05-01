@@ -1,17 +1,17 @@
-# Cold-Start to Personalization — Pipeline Design
+# Cold-Start to Personalization: Pipeline Design
 
 ## Origin
 
 This design came from observing recommendation behavior on content platforms and reasoning about
 what a well-designed system would need to handle a brand-new user who has no interaction history.
-The three-stage model below is my own framework — not a description of any company's internal system.
+The three-stage model below is my own framework, not a description of any company's internal system.
 
 ## The Core Problem
 
 A new user has no clicks, no watch history, no saved content, no behavioral trail. The platform
 has to recommend something immediately anyway. What does it use?
 
-The answer is coarse proxy variables: things you can know at signup or infer immediately — region,
+The answer is coarse proxy variables: things you can know at signup or infer immediately: region,
 age band, device type, language, declared interests. These are not ideal, but they allow a reasonable
 first guess by finding users who look similar on those attributes and recommending what worked for them.
 
@@ -19,7 +19,7 @@ This is the cold-start problem, and the solution is a cohort-based initializatio
 
 ## Three-Stage Model
 
-### Stage 1 — Initialization
+### Stage 1: Initialization
 
 The system relies on broad cohort features.
 
@@ -30,7 +30,7 @@ and predicts preferences based on what that cohort responded to.
 
 KNN is a natural fit here: it literally finds the nearest users in feature space and votes.
 
-### Stage 2 — Early Adaptation
+### Stage 2: Early Adaptation
 
 The user has a few interactions. The system blends cohort priors with personal signals.
 
@@ -38,7 +38,7 @@ New features added: first few clicks, dwell time, content completions, skips.
 
 The model begins weighting individual behavior alongside cohort assumptions.
 
-### Stage 3 — Personalization
+### Stage 3: Personalization
 
 Enough behavioral history exists that the individual profile drives the model.
 
@@ -56,7 +56,7 @@ Score = α · cohort_profile + β · individual_behavior
 | Early adaptation | ~0.5 | ~0.5 |
 | Personalization | ~0.1 | ~0.9 |
 
-α and β are not fixed constants — they are confidence weights that increase as behavioral history grows.
+α and β are not fixed constants; they are confidence weights that increase as behavioral history grows.
 A simple version: β = min(1.0, interaction_count / threshold).
 
 ## Platform Variants

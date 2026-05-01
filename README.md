@@ -1,11 +1,11 @@
-# Cold-Start to Personalization — KNN Recommender Pipeline
+# Cold-Start to Personalization: KNN Recommender Pipeline
 
 ## Overview
 
 This project starts as a class assignment (KNN video game genre classifier) and evolves into a
 multi-platform recommender pipeline prototype. The pipeline design is an original concept developed
 by observing recommendation behavior across content platforms and reasoning about what a well-designed
-system would require — not a description of how any specific company operates internally.
+system would require, not a description of how any specific company operates internally.
 
 The core idea: a new user has no behavioral history, so a system must bootstrap recommendations from
 coarse signals before it can personalize. This project implements that first stage and outlines how
@@ -47,9 +47,9 @@ The class assignment implements **Stage 1** of a three-stage recommender lifecyc
 
 | Stage | Driver | Description |
 |-------|--------|-------------|
-| 1 — Initialization | Cohort features | Use coarse attributes (age, demographics, signup signals) to bootstrap recommendations for users with no history |
-| 2 — Early adaptation | Blended signals | Mix cohort priors with first interaction signals |
-| 3 — Personalization | Individual behavior | User's own interaction history becomes the dominant ranking signal |
+| 1: Initialization | Cohort features | Use coarse attributes (age, demographics, signup signals) to bootstrap recommendations for users with no history |
+| 2: Early adaptation | Blended signals | Mix cohort priors with first interaction signals |
+| 3: Personalization | Individual behavior | User's own interaction history becomes the dominant ranking signal |
 
 Formally:
 
