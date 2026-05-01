@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# Copyright (C) 2026 William Rogers
+# SPDX-License-Identifier: GPL-3.0-or-later
 """
 KNN Classifier: Video Game Genre Prediction
 CSC525 Assignment: Option 2
