@@ -1,5 +1,7 @@
 # V1: Short-Form Content Feed (Social / Video)
 
+> **Status:** Design phase only. Implementation planned after v4 gaming is complete.
+
 Concept: short-form video / social post recommender modeled after how a content feed might behave.
 
 ## Cold-Start Features (Stage 1)

@@ -18,11 +18,11 @@ class_version/          ← CSC525 assignment submission
   knn_classifier.py     ← accepts 4 floats, outputs predicted genre
   data/data.csv         ← class-provided dataset
 
-portfolio_version/      ← evolving recommender pipeline (work in progress)
-  v1_content_feed/      ← short-form video / social feed concept
-  v2_streaming/         ← long-form video / movie recommendation concept
-  v3_music/             ← mood-aware music recommendation concept
-  v4_gaming/            ← full-circle game recommendation concept
+portfolio_version/      ← evolving recommender pipeline
+  v4_gaming/            ← working: KNN on cold-start gaming features (500-row research-backed dataset)
+  v1_content_feed/      ← design spec: short-form video / social feed concept
+  v2_streaming/         ← design spec: long-form video / movie recommendation concept
+  v3_music/             ← design spec: mood-aware music recommendation concept
 
 docs/design.md          ← cold-start pipeline design doc
 ```

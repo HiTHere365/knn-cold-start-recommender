@@ -1,5 +1,7 @@
 # V3: Mood-Aware Music Recommendation
 
+> **Status:** Design phase only. Implementation planned after v4 gaming is complete.
+
 Concept: music recommender that incorporates time-of-day and audio vibe signals to infer user mood
 and suggest contextually appropriate music, going beyond genre to emotional/temporal context.
 

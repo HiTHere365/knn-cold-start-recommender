@@ -1,5 +1,7 @@
 # V2: Long-Form Streaming (Movie / Series Recommendation)
 
+> **Status:** Design phase only. Implementation planned after v4 gaming is complete.
+
 Concept: movie and series recommender for a streaming platform.
 
 ## Cold-Start Features (Stage 1)
