@@ -1,0 +1,501 @@
+continent,country,region,age_band,gender,platform,session_pref,signup_genre,label
+North America,USA,Midwest,13-17,0,PC,Medium,Sports,Sports
+East Asia,Japan,South,25-34,0,Console,Medium,RPG,RPG
+South America,Brazil,Southeast,35+,1,Mobile,Short,Shooter,Action
+South Asia,India,West,8-12,1,Mobile,Medium,Puzzle,Puzzle
+East Asia,Japan,North,35+,0,Console,Long,Puzzle,Puzzle
+North America,Canada,East,13-17,0,PC,Medium,Sports,Sports
+South Asia,India,East,25-34,0,Mobile,Long,Strategy,Puzzle
+South America,Argentina,Central,35+,0,Mobile,Short,Sports,Sports
+Africa,Nigeria,North,18-24,1,Mobile,Short,Puzzle,Puzzle
+East Asia,Japan,South,35+,1,PC,Long,Strategy,Strategy
+Europe,Spain,Central,35+,1,PC,Long,Puzzle,Strategy
+South Asia,India,North,8-12,0,Mobile,Short,Action,Platformer
+South America,Argentina,South,18-24,1,PC,Medium,Action,Action
+Europe,UK,Scotland,18-24,1,Console,Long,Action,Action
+Europe,UK,Wales,18-24,1,Console,Short,Platformer,Platformer
+East Asia,China,Central,25-34,1,Console,Medium,Strategy,Strategy
+East Asia,South Korea,North,13-17,1,PC,Medium,Action,RPG
+East Asia,Japan,Central,13-17,0,Console,Medium,Puzzle,Strategy
+East Asia,Japan,South,18-24,0,PC,Medium,Shooter,Shooter
+Europe,France,North,18-24,1,PC,Medium,Action,RPG
+South Asia,India,North,8-12,1,PC,Long,Platformer,Platformer
+Europe,Germany,West,8-12,1,Handheld,Short,Puzzle,Puzzle
+North America,Mexico,South,13-17,1,Console,Medium,Platformer,Platformer
+East Asia,Japan,South,18-24,1,PC,Long,Puzzle,Puzzle
+East Asia,Japan,Central,13-17,1,Mobile,Medium,RPG,RPG
+Europe,France,South,13-17,1,Console,Medium,RPG,Strategy
+East Asia,China,West,13-17,1,Handheld,Short,Shooter,Action
+East Asia,South Korea,South,35+,0,Console,Long,Platformer,Platformer
+North America,USA,Midwest,18-24,1,Mobile,Short,Platformer,Platformer
+North America,Canada,Central,25-34,1,PC,Long,RPG,RPG
+South Asia,India,Central,18-24,1,PC,Long,Strategy,Puzzle
+South America,Colombia,South,18-24,0,Mobile,Short,RPG,Action
+North America,Mexico,North,35+,0,PC,Long,RPG,Strategy
+South America,Brazil,Northeast,35+,0,Console,Medium,Strategy,Strategy
+South Asia,India,East,13-17,0,Console,Long,Strategy,RPG
+East Asia,China,Central,8-12,0,PC,Medium,Strategy,Strategy
+South America,Argentina,North,13-17,0,Mobile,Long,Action,Action
+South Asia,India,East,18-24,0,PC,Long,Puzzle,Puzzle
+Africa,South Africa,Central,35+,0,Mobile,Medium,Shooter,Action
+North America,Canada,West,13-17,0,Console,Medium,Platformer,Platformer
+North America,Canada,Central,13-17,0,Console,Medium,RPG,RPG
+North America,Mexico,Central,25-34,0,Console,Long,Sports,Sports
+East Asia,Japan,South,13-17,1,PC,Long,Action,Action
+South America,Colombia,North,18-24,1,Console,Medium,Strategy,Puzzle
+South Asia,India,Central,18-24,0,PC,Long,Action,Action
+South Asia,India,East,18-24,0,PC,Long,Platformer,Puzzle
+Europe,Germany,East,25-34,1,Console,Medium,RPG,RPG
+East Asia,China,North,25-34,0,Mobile,Short,RPG,RPG
+Europe,Germany,West,35+,1,PC,Long,Strategy,Strategy
+East Asia,South Korea,Central,35+,1,Console,Long,RPG,Strategy
+Europe,France,West,25-34,0,PC,Medium,RPG,Strategy
+Africa,South Africa,North,18-24,1,Mobile,Short,RPG,RPG
+South Asia,India,South,13-17,1,PC,Long,Shooter,Sports
+East Asia,Japan,South,13-17,0,Mobile,Short,RPG,RPG
+East Asia,Japan,Central,13-17,1,Console,Long,RPG,Action
+Africa,South Africa,South,25-34,0,Mobile,Short,Puzzle,Puzzle
+North America,Mexico,North,35+,0,Mobile,Medium,Sports,Shooter
+Europe,France,North,25-34,0,PC,Medium,Shooter,Shooter
+South America,Colombia,North,35+,1,Mobile,Medium,Puzzle,Strategy
+Europe,Spain,Central,35+,1,PC,Medium,Sports,Sports
+North America,Canada,East,18-24,1,PC,Medium,RPG,RPG
+South America,Colombia,North,13-17,1,PC,Medium,RPG,RPG
+South Asia,India,North,25-34,1,Mobile,Short,Sports,Sports
+Europe,Spain,Central,18-24,1,PC,Long,Sports,Sports
+Europe,Germany,South,25-34,0,PC,Long,RPG,RPG
+East Asia,Japan,Central,18-24,1,Mobile,Short,Sports,Sports
+East Asia,South Korea,North,18-24,1,Handheld,Medium,Shooter,Action
+East Asia,Japan,Central,25-34,1,PC,Long,Strategy,Strategy
+East Asia,China,East,13-17,1,Console,Long,Action,RPG
+East Asia,China,North,35+,1,Console,Long,Strategy,Strategy
+East Asia,Japan,North,18-24,1,Mobile,Short,Puzzle,Strategy
+East Asia,Japan,Central,25-34,0,Console,Long,Strategy,Strategy
+Africa,South Africa,North,18-24,0,Mobile,Medium,Shooter,Shooter
+North America,Mexico,Central,18-24,1,Handheld,Medium,Strategy,Strategy
+East Asia,Japan,North,18-24,0,Handheld,Medium,Sports,Sports
+South Asia,India,East,13-17,0,Mobile,Short,Platformer,Puzzle
+East Asia,South Korea,Central,18-24,0,Console,Long,Strategy,Puzzle
+Europe,France,East,18-24,1,PC,Long,Shooter,Shooter
+East Asia,South Korea,South,25-34,1,Console,Long,Puzzle,Puzzle
+North America,USA,Northeast,13-17,1,Handheld,Medium,Sports,Sports
+Oceania,Australia,West,13-17,0,Handheld,Medium,Sports,Sports
+Europe,Sweden,North,13-17,1,PC,Medium,Shooter,Sports
+South Asia,India,South,25-34,1,Console,Medium,Shooter,Sports
+South America,Argentina,South,25-34,1,PC,Medium,Strategy,RPG
+North America,USA,West,25-34,0,Mobile,Medium,Action,Sports
+Europe,UK,England,35+,0,PC,Long,Strategy,Strategy
+South Asia,India,Central,13-17,1,Mobile,Medium,Action,Action
+North America,Mexico,Central,35+,0,Handheld,Medium,Sports,Sports
+North America,Canada,East,8-12,0,Console,Medium,Puzzle,Puzzle
+East Asia,Japan,North,18-24,1,PC,Short,RPG,RPG
+East Asia,Japan,North,25-34,1,Console,Medium,RPG,RPG
+Europe,UK,Scotland,13-17,1,Handheld,Medium,Strategy,Strategy
+Europe,France,West,18-24,1,Console,Medium,Strategy,Strategy
+Oceania,Australia,East,13-17,1,Handheld,Medium,Sports,Sports
+North America,Canada,West,25-34,1,Console,Medium,Strategy,RPG
+North America,Mexico,South,8-12,1,Mobile,Medium,Shooter,Shooter
+Europe,Germany,South,18-24,1,Console,Long,Action,RPG
+Africa,Nigeria,South,18-24,1,PC,Long,Action,RPG
+Africa,Nigeria,North,18-24,1,Mobile,Short,Puzzle,Puzzle
+South America,Argentina,North,25-34,0,PC,Long,Sports,Sports
+North America,Canada,Central,13-17,0,PC,Medium,Sports,Sports
+South America,Brazil,Southeast,25-34,0,PC,Long,Sports,Sports
+Europe,UK,Scotland,13-17,0,Console,Long,Strategy,Strategy
+Europe,France,East,35+,0,Mobile,Short,Strategy,Strategy
+North America,Mexico,North,35+,0,Mobile,Short,Puzzle,Puzzle
+North America,USA,Midwest,18-24,1,Console,Long,RPG,RPG
+South Asia,India,North,25-34,0,Mobile,Short,RPG,RPG
+Europe,UK,Wales,18-24,0,Mobile,Short,RPG,RPG
+South Asia,India,East,35+,0,PC,Short,Shooter,Action
+East Asia,Japan,Central,13-17,1,Console,Short,Action,RPG
+Europe,Spain,Central,35+,0,Mobile,Medium,Puzzle,Strategy
+Europe,Germany,West,18-24,1,PC,Long,Strategy,Strategy
+East Asia,South Korea,North,18-24,0,Mobile,Short,RPG,RPG
+Africa,Nigeria,South,25-34,0,Mobile,Short,RPG,RPG
+East Asia,South Korea,Central,13-17,1,Mobile,Short,Sports,Shooter
+East Asia,South Korea,South,18-24,0,Mobile,Short,Strategy,Strategy
+North America,Mexico,South,25-34,1,PC,Medium,Shooter,Action
+East Asia,China,North,18-24,1,Mobile,Short,RPG,RPG
+Africa,South Africa,North,8-12,1,Mobile,Medium,Sports,Sports
+Europe,Germany,North,25-34,0,PC,Medium,RPG,RPG
+Oceania,Australia,East,25-34,0,Mobile,Medium,Action,Action
+Europe,Germany,West,18-24,0,PC,Medium,Puzzle,Strategy
+East Asia,Japan,Central,25-34,1,PC,Long,Action,Action
+South Asia,India,South,13-17,1,Mobile,Medium,Strategy,Strategy
+East Asia,South Korea,North,18-24,1,Mobile,Short,Action,Sports
+East Asia,Japan,Central,25-34,0,Mobile,Short,Sports,Sports
+South Asia,India,West,18-24,0,PC,Long,Sports,Sports
+North America,Canada,Central,18-24,1,Mobile,Short,Puzzle,Puzzle
+South America,Brazil,Southeast,25-34,0,PC,Long,Platformer,Platformer
+East Asia,South Korea,South,13-17,0,Mobile,Short,Strategy,Strategy
+East Asia,Japan,South,18-24,1,PC,Medium,RPG,RPG
+East Asia,China,North,8-12,1,Console,Long,Strategy,RPG
+East Asia,China,Central,25-34,0,Handheld,Short,Strategy,Strategy
+North America,Mexico,Central,25-34,0,Console,Long,Sports,Sports
+Europe,France,North,13-17,0,PC,Medium,RPG,RPG
+East Asia,Japan,South,35+,1,Console,Long,Sports,Sports
+Europe,Germany,South,25-34,1,Console,Long,Strategy,Strategy
+East Asia,South Korea,South,18-24,1,Mobile,Medium,Platformer,Platformer
+South America,Argentina,South,18-24,1,Console,Long,Action,Sports
+South Asia,India,South,18-24,0,Mobile,Short,Action,Action
+South Asia,India,East,18-24,0,Console,Short,Sports,Sports
+East Asia,Japan,Central,35+,1,PC,Medium,Platformer,Puzzle
+South Asia,India,North,25-34,1,Mobile,Medium,Strategy,Strategy
+Africa,South Africa,Central,35+,0,Mobile,Short,Puzzle,Puzzle
+East Asia,Japan,Central,8-12,0,Console,Long,Strategy,Strategy
+North America,Mexico,North,18-24,0,PC,Short,Sports,Sports
+Europe,Spain,South,18-24,1,PC,Long,Puzzle,Strategy
+South Asia,India,North,25-34,0,Mobile,Medium,Strategy,Strategy
+Europe,France,South,35+,0,Console,Long,Action,RPG
+East Asia,Japan,North,18-24,1,Console,Long,Platformer,Platformer
+East Asia,China,Central,8-12,0,Mobile,Medium,Platformer,Platformer
+Europe,Sweden,Central,25-34,1,PC,Medium,Puzzle,Strategy
+East Asia,China,Central,8-12,0,PC,Medium,Strategy,Strategy
+North America,Canada,West,18-24,0,Mobile,Medium,Action,Shooter
+North America,Canada,West,13-17,1,PC,Long,Action,Action
+East Asia,China,South,8-12,1,PC,Long,RPG,RPG
+East Asia,Japan,South,13-17,0,PC,Medium,RPG,RPG
+Africa,South Africa,Central,13-17,1,Mobile,Medium,Shooter,Shooter
+East Asia,Japan,Central,35+,0,Mobile,Medium,Puzzle,Puzzle
+South Asia,India,South,35+,0,Console,Long,Strategy,Strategy
+Oceania,Australia,East,18-24,1,Console,Short,RPG,RPG
+East Asia,South Korea,Central,18-24,0,Handheld,Medium,Action,Action
+East Asia,Japan,Central,13-17,0,PC,Long,RPG,Strategy
+Europe,UK,England,13-17,0,PC,Medium,Shooter,Shooter
+East Asia,Japan,Central,13-17,1,Mobile,Long,Action,Action
+North America,Mexico,North,35+,1,Mobile,Short,RPG,Strategy
+East Asia,China,West,18-24,0,Mobile,Short,Puzzle,Puzzle
+North America,Canada,West,18-24,1,PC,Long,RPG,RPG
+Europe,France,South,25-34,0,PC,Long,Strategy,RPG
+East Asia,South Korea,North,8-12,1,Mobile,Short,Strategy,Strategy
+South America,Brazil,South,13-17,1,Console,Long,Action,Action
+East Asia,Japan,North,35+,1,Handheld,Medium,Action,Action
+South America,Colombia,South,25-34,1,PC,Long,RPG,RPG
+Europe,UK,Scotland,18-24,1,Mobile,Short,Strategy,Strategy
+South America,Colombia,South,8-12,1,PC,Medium,Action,Platformer
+East Asia,China,East,13-17,1,PC,Short,Strategy,Strategy
+Europe,France,East,25-34,1,Mobile,Long,Sports,Sports
+South Asia,India,East,25-34,0,PC,Medium,Strategy,Puzzle
+North America,Canada,Central,18-24,0,Console,Long,RPG,RPG
+North America,Canada,East,18-24,0,Console,Medium,Strategy,Strategy
+Europe,Germany,West,18-24,0,PC,Long,RPG,RPG
+North America,Mexico,Central,13-17,0,PC,Medium,Puzzle,Strategy
+North America,USA,Southeast,35+,0,PC,Medium,Strategy,Strategy
+South Asia,India,East,25-34,1,Mobile,Medium,Puzzle,Puzzle
+Oceania,Australia,East,25-34,1,PC,Medium,RPG,RPG
+East Asia,China,South,13-17,1,Handheld,Medium,RPG,RPG
+Europe,Germany,North,18-24,0,Mobile,Short,Action,Shooter
+Europe,Sweden,Central,13-17,1,Console,Long,Sports,Sports
+East Asia,China,North,35+,1,Handheld,Short,Strategy,Puzzle
+Africa,Nigeria,North,13-17,0,Mobile,Short,Shooter,Shooter
+Europe,Germany,West,18-24,0,PC,Long,Sports,Sports
+East Asia,South Korea,South,25-34,0,Console,Medium,RPG,RPG
+Europe,UK,England,35+,1,Handheld,Short,Strategy,Strategy
+East Asia,China,West,25-34,1,Mobile,Medium,RPG,RPG
+Europe,France,North,18-24,1,Console,Long,Shooter,Shooter
+South Asia,India,East,25-34,0,PC,Long,RPG,RPG
+North America,USA,Southwest,8-12,0,PC,Long,Sports,Sports
+North America,USA,Southeast,13-17,1,PC,Long,Action,Action
+South Asia,India,Central,8-12,1,Mobile,Short,Platformer,Platformer
+East Asia,Japan,South,18-24,0,Mobile,Short,Shooter,Action
+East Asia,South Korea,North,35+,0,Console,Long,Shooter,Shooter
+South America,Argentina,Central,35+,1,Mobile,Long,Strategy,Strategy
+Europe,Spain,North,8-12,1,Console,Medium,Strategy,Strategy
+Europe,Germany,South,13-17,0,PC,Medium,Shooter,Action
+North America,USA,Southeast,8-12,0,PC,Medium,Platformer,Platformer
+East Asia,South Korea,North,25-34,1,PC,Long,Action,RPG
+North America,Mexico,Central,35+,0,PC,Long,RPG,RPG
+North America,Mexico,North,18-24,0,Console,Medium,Sports,Shooter
+North America,Canada,East,18-24,1,PC,Medium,Shooter,Shooter
+Europe,UK,Wales,18-24,1,PC,Medium,RPG,RPG
+Europe,France,North,8-12,1,PC,Long,Action,Action
+South Asia,India,East,18-24,0,Mobile,Medium,Action,RPG
+Africa,South Africa,Central,25-34,1,PC,Long,Sports,Sports
+Europe,Sweden,Central,18-24,0,Mobile,Long,Sports,Sports
+East Asia,Japan,South,35+,0,Mobile,Short,RPG,RPG
+Europe,Germany,West,18-24,0,PC,Long,Shooter,Sports
+East Asia,South Korea,North,13-17,0,Mobile,Short,Action,Action
+South America,Brazil,North,25-34,1,Console,Medium,RPG,RPG
+Europe,UK,Wales,35+,0,Console,Long,Strategy,Strategy
+East Asia,China,South,18-24,0,PC,Medium,Puzzle,Puzzle
+Africa,South Africa,North,25-34,1,Mobile,Short,Sports,Sports
+North America,Mexico,North,8-12,0,PC,Long,Action,Action
+Europe,Sweden,North,8-12,0,Console,Long,Strategy,RPG
+South America,Brazil,Northeast,35+,0,Mobile,Medium,RPG,Action
+East Asia,South Korea,North,25-34,0,Handheld,Medium,Action,Action
+East Asia,South Korea,South,25-34,1,Handheld,Short,RPG,RPG
+South Asia,India,North,8-12,0,Mobile,Short,Shooter,Sports
+East Asia,South Korea,Central,35+,1,PC,Medium,Strategy,Strategy
+North America,USA,Northeast,25-34,0,Mobile,Short,Strategy,Strategy
+East Asia,South Korea,Central,13-17,1,PC,Medium,Strategy,Strategy
+East Asia,South Korea,South,18-24,1,Mobile,Short,RPG,RPG
+Africa,South Africa,South,13-17,1,Mobile,Medium,Action,Action
+East Asia,South Korea,Central,35+,0,Console,Medium,Strategy,Strategy
+East Asia,Japan,Central,25-34,1,PC,Long,Action,Platformer
+East Asia,China,Central,18-24,1,PC,Medium,Action,Shooter
+East Asia,South Korea,Central,13-17,0,PC,Long,Sports,Sports
+South Asia,India,East,8-12,0,PC,Long,Platformer,Platformer
+North America,USA,Midwest,25-34,1,Console,Long,Strategy,Strategy
+Europe,Sweden,South,25-34,0,Mobile,Long,Puzzle,Puzzle
+East Asia,China,South,18-24,0,Mobile,Short,Shooter,Shooter
+South Asia,India,North,25-34,0,Mobile,Short,RPG,RPG
+Europe,Spain,South,8-12,1,PC,Medium,Shooter,Shooter
+Africa,South Africa,Central,13-17,1,Mobile,Short,Sports,Sports
+East Asia,South Korea,North,25-34,0,Handheld,Short,Strategy,RPG
+Europe,Spain,North,18-24,0,PC,Medium,RPG,RPG
+Europe,Spain,North,8-12,1,PC,Medium,Action,Sports
+South Asia,India,South,13-17,0,Mobile,Short,Puzzle,Puzzle
+North America,Mexico,North,25-34,0,PC,Long,RPG,Strategy
+North America,Canada,East,18-24,1,PC,Medium,Sports,Sports
+Europe,Sweden,South,35+,1,PC,Long,RPG,RPG
+South America,Colombia,North,18-24,1,Console,Long,Sports,Sports
+Europe,Sweden,Central,13-17,1,Console,Medium,Sports,Sports
+East Asia,China,South,25-34,0,Mobile,Short,RPG,RPG
+South Asia,India,West,25-34,0,PC,Short,Strategy,RPG
+East Asia,Japan,Central,8-12,0,Mobile,Medium,Platformer,Platformer
+South Asia,India,West,13-17,1,PC,Medium,Action,Action
+East Asia,China,Central,13-17,1,PC,Long,Action,Action
+South Asia,India,North,13-17,0,Handheld,Medium,Platformer,Puzzle
+Europe,Spain,South,18-24,0,PC,Medium,Action,Action
+South Asia,India,East,8-12,0,Handheld,Short,Puzzle,Platformer
+South America,Colombia,Central,13-17,1,Mobile,Short,Shooter,Shooter
+East Asia,South Korea,Central,8-12,0,Handheld,Medium,Platformer,Platformer
+South America,Argentina,Central,13-17,0,Mobile,Long,Sports,Sports
+Africa,Nigeria,North,18-24,0,Mobile,Short,Sports,Sports
+North America,USA,West,8-12,1,Console,Long,RPG,RPG
+East Asia,China,South,18-24,1,Handheld,Long,Strategy,RPG
+East Asia,South Korea,Central,25-34,1,Mobile,Medium,RPG,RPG
+North America,Mexico,South,13-17,0,Mobile,Short,RPG,Action
+South America,Brazil,North,35+,1,PC,Medium,RPG,RPG
+North America,Mexico,South,25-34,0,Console,Long,RPG,RPG
+Europe,Sweden,Central,25-34,1,Console,Long,RPG,RPG
+East Asia,Japan,Central,35+,0,Handheld,Short,RPG,Strategy
+East Asia,Japan,North,8-12,0,Mobile,Short,Strategy,Strategy
+Europe,Sweden,North,13-17,1,Console,Medium,Action,Shooter
+Europe,Sweden,South,25-34,1,Console,Long,Action,Sports
+East Asia,South Korea,North,18-24,0,PC,Long,Action,Action
+East Asia,Japan,North,18-24,0,PC,Medium,Action,RPG
+South Asia,India,North,18-24,1,Mobile,Short,Action,Action
+Europe,UK,Scotland,13-17,0,Console,Medium,Action,Action
+Europe,UK,England,18-24,1,PC,Long,Action,Action
+Africa,Nigeria,North,25-34,1,Mobile,Short,Sports,Sports
+Africa,South Africa,North,35+,1,PC,Long,Puzzle,Strategy
+East Asia,South Korea,North,25-34,0,PC,Medium,Strategy,RPG
+South Asia,India,Central,13-17,1,Mobile,Short,RPG,Action
+South Asia,India,South,13-17,1,Mobile,Short,Action,Shooter
+East Asia,Japan,South,18-24,0,PC,Long,Strategy,Strategy
+Europe,Spain,South,13-17,1,Mobile,Medium,Shooter,Action
+East Asia,South Korea,North,25-34,0,Mobile,Short,RPG,RPG
+Europe,Spain,Central,18-24,1,Handheld,Short,RPG,RPG
+South America,Colombia,South,18-24,1,Mobile,Medium,Strategy,Strategy
+North America,Canada,East,18-24,0,Mobile,Short,Action,Sports
+East Asia,Japan,North,18-24,0,Mobile,Medium,Strategy,Strategy
+South Asia,India,North,25-34,1,Mobile,Short,Strategy,Strategy
+Africa,South Africa,North,25-34,1,PC,Medium,Sports,Sports
+Africa,Nigeria,Central,25-34,0,Mobile,Short,Shooter,Sports
+East Asia,South Korea,Central,35+,0,Mobile,Short,Puzzle,Platformer
+South Asia,India,East,35+,0,Mobile,Short,Action,Action
+East Asia,South Korea,North,18-24,0,Handheld,Short,RPG,RPG
+East Asia,China,North,18-24,0,Console,Long,Strategy,Puzzle
+East Asia,China,South,35+,1,Handheld,Medium,Strategy,Strategy
+North America,USA,West,8-12,1,PC,Medium,Action,Action
+East Asia,China,Central,13-17,0,Handheld,Short,Action,Action
+North America,USA,Northeast,35+,1,Console,Long,Puzzle,Puzzle
+East Asia,South Korea,North,18-24,0,Handheld,Medium,Action,RPG
+East Asia,China,Central,13-17,1,PC,Long,Strategy,Strategy
+South America,Colombia,North,25-34,0,Mobile,Short,Action,Action
+East Asia,Japan,North,25-34,0,PC,Medium,RPG,RPG
+South America,Argentina,North,8-12,1,Mobile,Short,Action,Action
+South Asia,India,East,18-24,1,Mobile,Short,Puzzle,Puzzle
+North America,USA,West,13-17,1,Mobile,Medium,Action,Action
+South America,Brazil,North,8-12,0,PC,Long,Sports,Sports
+Africa,South Africa,South,13-17,1,PC,Medium,Platformer,Puzzle
+North America,Canada,East,18-24,1,Mobile,Short,Action,Action
+South America,Colombia,South,13-17,1,PC,Short,Shooter,Action
+South Asia,India,East,25-34,1,Console,Medium,Strategy,Strategy
+East Asia,South Korea,Central,18-24,1,Mobile,Medium,Action,Action
+South Asia,India,West,18-24,1,Mobile,Short,Shooter,Shooter
+East Asia,South Korea,North,8-12,0,PC,Long,RPG,Strategy
+East Asia,South Korea,North,13-17,1,Handheld,Short,Action,Action
+East Asia,China,Central,35+,0,Handheld,Short,RPG,RPG
+East Asia,South Korea,South,25-34,0,PC,Long,RPG,RPG
+East Asia,China,West,35+,0,Console,Long,RPG,RPG
+East Asia,South Korea,Central,25-34,1,PC,Long,RPG,RPG
+North America,USA,West,13-17,0,Console,Medium,Shooter,Shooter
+South Asia,India,South,25-34,1,Mobile,Short,RPG,RPG
+South Asia,India,South,8-12,1,PC,Long,Platformer,Puzzle
+South America,Colombia,North,18-24,0,Mobile,Medium,Sports,Sports
+South America,Brazil,North,35+,0,Mobile,Short,Platformer,Platformer
+North America,USA,Northeast,18-24,0,PC,Long,Sports,Sports
+South America,Argentina,South,8-12,1,Console,Short,Action,Platformer
+North America,Canada,Central,25-34,0,PC,Short,Shooter,Shooter
+North America,USA,Southeast,18-24,0,PC,Long,Strategy,Strategy
+East Asia,South Korea,North,25-34,1,PC,Long,Strategy,Strategy
+South America,Argentina,South,13-17,1,PC,Long,Shooter,Shooter
+South America,Argentina,South,13-17,1,Console,Long,Shooter,Action
+North America,Mexico,North,35+,1,Console,Long,Strategy,Strategy
+South Asia,India,South,18-24,0,PC,Medium,Sports,Sports
+South America,Colombia,South,13-17,1,Mobile,Short,Shooter,Sports
+North America,USA,Midwest,18-24,0,PC,Long,Sports,Sports
+East Asia,Japan,South,8-12,0,PC,Long,Puzzle,Puzzle
+East Asia,Japan,North,18-24,0,Mobile,Short,Shooter,Shooter
+South America,Brazil,North,13-17,1,PC,Long,Strategy,RPG
+North America,USA,West,13-17,1,Console,Long,Strategy,Strategy
+East Asia,China,Central,35+,0,Console,Long,Action,Action
+South Asia,India,South,18-24,1,Mobile,Short,Shooter,Action
+South Asia,India,East,18-24,0,Console,Long,Action,RPG
+East Asia,Japan,South,8-12,1,Handheld,Short,Puzzle,Strategy
+South America,Argentina,South,8-12,1,PC,Long,Platformer,Platformer
+Europe,Sweden,North,13-17,0,PC,Long,RPG,RPG
+North America,Canada,Central,25-34,1,Console,Short,RPG,RPG
+South Asia,India,Central,25-34,0,PC,Long,Sports,Sports
+Europe,Germany,West,25-34,0,PC,Short,RPG,RPG
+Africa,South Africa,South,25-34,1,Mobile,Medium,Strategy,Strategy
+East Asia,Japan,North,25-34,1,Handheld,Short,Strategy,Puzzle
+South America,Colombia,South,18-24,0,Mobile,Short,Action,Action
+East Asia,Japan,Central,25-34,0,PC,Long,Strategy,RPG
+East Asia,China,North,13-17,0,Handheld,Medium,Strategy,Strategy
+North America,Canada,Central,25-34,0,Mobile,Medium,Shooter,Shooter
+Europe,UK,England,25-34,0,PC,Medium,Strategy,RPG
+Oceania,Australia,Central,8-12,0,PC,Long,RPG,RPG
+Europe,Spain,South,13-17,0,Mobile,Short,Sports,Sports
+Europe,Germany,East,13-17,1,Handheld,Short,RPG,RPG
+South Asia,India,North,13-17,1,Console,Medium,Action,Action
+North America,USA,Northeast,25-34,0,Console,Long,Sports,Sports
+East Asia,Japan,North,25-34,0,Handheld,Short,RPG,Strategy
+East Asia,China,Central,25-34,0,Mobile,Short,RPG,RPG
+South America,Argentina,North,18-24,1,Console,Long,RPG,Action
+Europe,Germany,East,35+,0,Mobile,Short,Sports,Sports
+North America,Mexico,North,25-34,0,Handheld,Short,Action,Sports
+North America,USA,Southeast,25-34,1,Mobile,Medium,RPG,Strategy
+East Asia,South Korea,Central,18-24,0,PC,Medium,Shooter,Sports
+South Asia,India,Central,25-34,0,Mobile,Medium,Strategy,Puzzle
+Europe,France,North,18-24,0,Console,Medium,Shooter,Sports
+South Asia,India,North,8-12,1,Mobile,Short,Puzzle,Puzzle
+East Asia,Japan,South,18-24,1,Console,Medium,Strategy,Strategy
+North America,USA,Southwest,25-34,0,PC,Long,Action,Action
+Europe,France,North,25-34,0,Mobile,Short,Action,RPG
+South Asia,India,Central,25-34,1,Mobile,Short,Sports,Sports
+Europe,Spain,Central,13-17,1,Mobile,Short,Sports,Sports
+Africa,South Africa,South,18-24,0,Mobile,Medium,Puzzle,Puzzle
+East Asia,Japan,South,18-24,1,Mobile,Short,RPG,RPG
+East Asia,South Korea,Central,18-24,0,Mobile,Medium,Action,Action
+East Asia,Japan,South,35+,0,Console,Long,Platformer,Puzzle
+East Asia,China,South,25-34,0,Mobile,Short,Strategy,Strategy
+North America,Canada,Central,35+,0,Mobile,Short,Sports,Sports
+North America,USA,West,25-34,0,Console,Medium,Strategy,Strategy
+Africa,South Africa,North,8-12,1,Mobile,Short,Platformer,Platformer
+South America,Argentina,Central,18-24,1,Mobile,Short,Sports,Sports
+North America,Mexico,South,18-24,1,Mobile,Medium,Sports,Sports
+East Asia,South Korea,Central,18-24,1,PC,Long,Action,RPG
+Africa,South Africa,Central,25-34,0,Mobile,Medium,Shooter,Shooter
+North America,USA,Northeast,18-24,0,Mobile,Short,Puzzle,Platformer
+East Asia,China,West,25-34,1,Mobile,Short,Strategy,Strategy
+East Asia,China,East,25-34,1,Console,Short,Puzzle,Strategy
+East Asia,China,Central,35+,1,Mobile,Short,Strategy,Strategy
+North America,Mexico,South,18-24,1,PC,Medium,Action,RPG
+East Asia,South Korea,North,18-24,1,Console,Medium,Shooter,Shooter
+East Asia,China,North,13-17,1,Handheld,Medium,Puzzle,Puzzle
+East Asia,Japan,South,18-24,0,Console,Long,Action,Action
+South America,Colombia,Central,18-24,0,PC,Medium,Platformer,Platformer
+Europe,UK,Scotland,13-17,0,PC,Short,Action,Sports
+Europe,Germany,South,18-24,1,Console,Medium,Action,Action
+East Asia,Japan,South,18-24,1,Handheld,Short,Shooter,Shooter
+South Asia,India,South,18-24,1,Mobile,Short,Puzzle,Puzzle
+East Asia,Japan,South,18-24,0,PC,Long,Action,Action
+East Asia,Japan,North,13-17,1,Mobile,Short,Strategy,Strategy
+East Asia,South Korea,South,18-24,0,Mobile,Medium,RPG,RPG
+East Asia,China,Central,35+,1,Mobile,Short,Puzzle,Puzzle
+Europe,Spain,South,25-34,1,Mobile,Medium,Puzzle,Strategy
+East Asia,South Korea,South,25-34,0,Mobile,Short,RPG,RPG
+Africa,South Africa,North,8-12,1,Mobile,Short,Platformer,Platformer
+East Asia,Japan,North,8-12,0,PC,Long,RPG,RPG
+East Asia,China,West,25-34,0,Handheld,Medium,RPG,RPG
+Europe,Germany,West,18-24,0,Console,Medium,Action,Action
+East Asia,Japan,North,18-24,1,Mobile,Medium,Action,Action
+East Asia,Japan,Central,18-24,1,Console,Long,Strategy,Strategy
+South America,Argentina,South,25-34,0,Mobile,Short,Platformer,Platformer
+Europe,Spain,Central,18-24,0,PC,Medium,Shooter,Action
+South Asia,India,North,18-24,0,Mobile,Short,Puzzle,Puzzle
+Africa,South Africa,North,25-34,1,PC,Long,Sports,Sports
+South Asia,India,West,35+,1,PC,Medium,Strategy,Strategy
+Europe,Germany,East,18-24,0,Mobile,Medium,Strategy,Strategy
+North America,USA,Northeast,18-24,1,Handheld,Medium,Action,Sports
+Africa,Nigeria,South,18-24,0,PC,Long,Puzzle,Puzzle
+Africa,South Africa,Central,18-24,1,Mobile,Short,Action,Action
+East Asia,China,West,18-24,1,Mobile,Short,Action,RPG
+South America,Brazil,Southeast,25-34,0,Mobile,Short,RPG,RPG
+Africa,South Africa,South,8-12,0,PC,Medium,Platformer,Platformer
+East Asia,South Korea,Central,13-17,0,Mobile,Short,Sports,Sports
+East Asia,China,Central,13-17,1,Handheld,Short,RPG,RPG
+Africa,Nigeria,South,35+,0,Mobile,Medium,Puzzle,Strategy
+Europe,Spain,Central,13-17,1,PC,Long,Shooter,Shooter
+East Asia,China,Central,18-24,1,PC,Medium,Strategy,Strategy
+East Asia,South Korea,South,13-17,1,Handheld,Short,Shooter,Shooter
+Europe,Germany,West,35+,1,Console,Medium,RPG,RPG
+East Asia,Japan,South,18-24,1,Mobile,Short,Shooter,Shooter
+South Asia,India,East,25-34,0,Mobile,Long,Strategy,Strategy
+North America,Mexico,North,8-12,0,PC,Long,Sports,Sports
+East Asia,South Korea,Central,13-17,1,PC,Long,Strategy,Puzzle
+North America,Mexico,South,13-17,1,PC,Long,Platformer,Platformer
+East Asia,China,South,35+,0,PC,Long,Puzzle,Puzzle
+North America,USA,Northeast,18-24,1,Mobile,Short,Sports,Sports
+Europe,France,West,8-12,0,PC,Medium,Action,Shooter
+East Asia,South Korea,North,18-24,1,Mobile,Medium,Action,Action
+North America,USA,West,13-17,1,PC,Medium,Puzzle,Puzzle
+North America,Canada,West,35+,0,PC,Long,Shooter,Shooter
+North America,Canada,Central,18-24,0,Console,Long,Shooter,Shooter
+East Asia,Japan,Central,13-17,1,PC,Medium,Sports,Sports
+East Asia,China,North,25-34,1,Console,Medium,Strategy,Strategy
+South Asia,India,Central,18-24,1,Mobile,Short,Action,Shooter
+East Asia,South Korea,South,35+,0,Mobile,Medium,Action,RPG
+Europe,UK,England,18-24,1,Mobile,Short,Shooter,Shooter
+East Asia,Japan,South,13-17,1,Mobile,Long,Action,Action
+East Asia,Japan,Central,18-24,1,PC,Long,Action,Action
+South Asia,India,North,18-24,1,Mobile,Short,Action,Sports
+East Asia,China,Central,13-17,0,PC,Long,Strategy,Strategy
+North America,USA,West,35+,1,PC,Long,RPG,Strategy
+East Asia,China,South,35+,1,Mobile,Medium,Strategy,Strategy
+East Asia,South Korea,South,8-12,1,Mobile,Medium,Puzzle,Puzzle
+East Asia,Japan,North,25-34,0,Mobile,Short,RPG,RPG
+Europe,Germany,North,35+,0,Mobile,Short,Strategy,Puzzle
+North America,Canada,Central,18-24,1,Mobile,Medium,Sports,Sports
+East Asia,South Korea,Central,25-34,0,Console,Medium,Action,Action
+East Asia,South Korea,South,25-34,1,PC,Short,RPG,Action
+East Asia,Japan,South,13-17,0,Handheld,Medium,Sports,Sports
+East Asia,China,South,8-12,0,Mobile,Short,Puzzle,Puzzle
+Europe,UK,England,25-34,0,PC,Long,Strategy,Strategy
+East Asia,China,North,25-34,0,Mobile,Medium,RPG,Strategy
+Europe,Sweden,Central,25-34,0,Console,Short,Strategy,Strategy
+East Asia,China,North,18-24,1,Mobile,Short,Puzzle,Strategy
+South Asia,India,East,13-17,0,PC,Medium,Sports,Sports
+Europe,Spain,Central,18-24,0,Handheld,Long,Sports,Shooter
+South America,Argentina,South,18-24,0,Mobile,Short,Shooter,Sports
+Africa,South Africa,South,8-12,1,Mobile,Short,Platformer,Platformer
+East Asia,South Korea,North,25-34,0,Console,Long,Strategy,Strategy
+East Asia,South Korea,Central,35+,1,Mobile,Short,RPG,RPG
+North America,USA,Northeast,13-17,0,Console,Long,Shooter,Sports
+East Asia,China,East,25-34,1,Mobile,Short,RPG,Strategy
+South America,Brazil,North,8-12,1,PC,Long,Sports,Sports
+North America,USA,Northeast,35+,0,Console,Long,Action,Action
+South Asia,India,Central,25-34,0,Mobile,Short,Strategy,Strategy
+North America,USA,West,25-34,1,Console,Medium,Platformer,Platformer
+East Asia,South Korea,Central,13-17,1,Console,Medium,RPG,RPG
+North America,Canada,East,35+,1,Handheld,Medium,RPG,Action
+North America,USA,Northeast,35+,0,Mobile,Short,Puzzle,Puzzle
+North America,USA,Midwest,13-17,1,PC,Short,Sports,Sports
+Europe,Germany,North,18-24,1,PC,Long,RPG,RPG
+East Asia,South Korea,South,25-34,0,Handheld,Short,RPG,Strategy
+East Asia,China,East,35+,1,Mobile,Short,Puzzle,Puzzle
+East Asia,China,East,8-12,0,PC,Long,RPG,Strategy
+East Asia,South Korea,Central,35+,0,Console,Medium,Strategy,Strategy
+Europe,UK,Wales,18-24,1,Handheld,Short,Sports,Sports
+North America,Mexico,South,13-17,0,PC,Medium,Shooter,Shooter
+East Asia,China,Central,13-17,1,PC,Long,Platformer,Puzzle
+Oceania,Australia,Central,18-24,0,Handheld,Long,Action,Action
+South America,Brazil,North,18-24,1,Console,Long,Sports,Shooter
+East Asia,Japan,North,35+,0,Mobile,Short,Strategy,Strategy
+East Asia,Japan,Central,13-17,0,Mobile,Medium,Strategy,Strategy
+Europe,Sweden,North,18-24,0,Mobile,Short,Shooter,Shooter
+North America,USA,Southeast,35+,0,Mobile,Medium,RPG,RPG
