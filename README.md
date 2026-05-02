@@ -41,6 +41,33 @@ python class_version/knn_classifier.py 22 68 160 1
 # → Predicted genre: RPG
 ```
 
+## Demo
+
+V4 Gaming cold-start prediction for an 18-24 male PC gamer in the US Northeast who signed up for Shooter:
+
+```bash
+python portfolio_version/v4_gaming/knn_gaming.py \
+  --continent "North America" --country "USA" --region "Northeast" \
+  --age-band "18-24" --gender 1 --platform "PC" \
+  --session-pref "Long" --signup-genre "Shooter"
+```
+
+```
+Cold-start profile:
+  Location:     North America / USA / Northeast
+  Age band:     18-24  |  Gender: Male
+  Platform:     PC  |  Session: Long
+  Signup genre: Shooter
+
+Top recommendation:  Strategy
+
+Full genre ranking:
+  1. Strategy      (2 of 7 neighbors)
+  2. Sports        (2 of 7 neighbors)
+  3. RPG           (2 of 7 neighbors)
+  4. Shooter       (1 of 7 neighbors)
+```
+
 ## Cold-Start Pipeline Concept
 
 The class assignment implements **Stage 1** of a three-stage recommender lifecycle I designed:
