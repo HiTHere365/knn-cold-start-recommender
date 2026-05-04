@@ -3,7 +3,6 @@
 # SPDX-License-Identifier: GPL-3.0-or-later
 """
 KNN Classifier: Video Game Genre Prediction
-CSC525 Assignment: Option 2
 
 Usage:
     python knn_classifier.py <age> <height> <weight> <gender>
@@ -54,7 +53,7 @@ def main():
 
     if not os.path.exists(DATA_FILE):
         print(f"Dataset not found at: {DATA_FILE}")
-        print("Place data.csv in the class_version/data/ directory.")
+        print("Place data.csv in the legacy/data/ directory.")
         sys.exit(1)
 
     dataset = load_data(DATA_FILE)

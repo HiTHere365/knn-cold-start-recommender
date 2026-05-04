@@ -2,7 +2,7 @@
 # SPDX-License-Identifier: GPL-3.0-or-later
 """
 Shared KNN algorithm core.
-Used by all pipeline versions (class, v4 gaming, v1-v3 future).
+Used by all pipeline versions (v4 gaming, v1-v3 future).
 """
 
 import math

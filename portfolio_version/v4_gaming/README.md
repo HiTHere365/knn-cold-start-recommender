@@ -1,14 +1,14 @@
-# V4: Game Recommendation (Full Circle)
+# V4: Game Recommendation
 
-Concept: full-circle evolution of the class assignment. Starts with the same demographic cold-start
-features, then layers in behavioral signals specific to gaming. This version closes the loop between
-the CSC525 assignment and the complete pipeline vision.
+Stage 1 implementation using realistic gaming cold-start features. Extends the baseline demographic
+approach into a richer feature space specific to the gaming platform context, and establishes the
+scaffold for Stage 2 behavioral layer.
 
-## Cold-Start Features (Stage 1, mirrors class assignment)
+## Cold-Start Features (Stage 1)
 
 | Feature | Type | Notes |
 |---------|------|-------|
-| age_band | categorical | more granular than the class dataset |
+| age_band | categorical | more granular than the baseline dataset |
 | region | categorical | MGRS / lat-long bucket |
 | device_type | categorical | PC, console, mobile, handheld |
 | signup_genres | list | genres selected at account creation |
@@ -40,14 +40,7 @@ Options being evaluated:
 
 - [ ] Finalize location encoding approach
 - [ ] Build or source dataset with session-level behavioral features
-- [ ] Port class_version/knn_classifier.py as the Stage 1 baseline
 - [ ] Add behavioral layer as separate feature set
-
-## Connection to Class Assignment
-
-The class version (`class_version/knn_classifier.py`) is Stage 1 of this model.
-In the final form, age/height/weight/gender → age_band/region/device/signup_genre,
-and session hours, completion rate, and genre time replace the physical attributes entirely.
 
 ## Status
 

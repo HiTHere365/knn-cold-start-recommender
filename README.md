@@ -2,21 +2,16 @@
 
 ## Overview
 
-This project starts as a class assignment (KNN video game genre classifier) and evolves into a
-multi-platform recommender pipeline prototype. The pipeline design is an original concept developed
-by observing recommendation behavior across content platforms and reasoning about what a well-designed
-system would require, not a description of how any specific company operates internally.
+A new user has no behavioral history. A platform has to recommend something immediately anyway. This project implements the first stage of a three-stage recommender lifecycle and outlines how subsequent stages work as behavioral data accumulates.
 
-The core idea: a new user has no behavioral history, so a system must bootstrap recommendations from
-coarse signals before it can personalize. This project implements that first stage and outlines how
-subsequent stages would work as behavior data accumulates.
+The pipeline design is an original concept developed by observing recommendation behavior across content platforms and reasoning about what a well-designed system would require. It is not a description of how any specific company operates internally.
 
 ## Repository Structure
 
 ```
-class_version/          ← CSC525 assignment submission
+legacy/                 ← baseline: KNN on simplified demographic features
   knn_classifier.py     ← accepts 4 floats, outputs predicted genre
-  data/data.csv         ← class-provided dataset
+  data/data.csv         ← original dataset
 
 portfolio_version/      ← evolving recommender pipeline
   v4_gaming/            ← working: KNN on cold-start gaming features (500-row research-backed dataset)
@@ -27,18 +22,18 @@ portfolio_version/      ← evolving recommender pipeline
 docs/design.md          ← cold-start pipeline design doc
 ```
 
-## Running the Class Assignment
+## Running the Baseline
 
 ```bash
-conda activate MLFINALGRADCOURSE
-python class_version/knn_classifier.py <age> <height_in> <weight_lbs> <gender>
+pip install -r requirements.txt
+python legacy/knn_classifier.py <age> <height_in> <weight_lbs> <gender>
 # gender: 0=female, 1=male
 ```
 
 Example:
 ```bash
-python class_version/knn_classifier.py 22 68 160 1
-# → Predicted genre: RPG
+python legacy/knn_classifier.py 22 68 160 1
+# Predicted genre: RPG
 ```
 
 ## Demo
@@ -70,7 +65,7 @@ Full genre ranking:
 
 ## Cold-Start Pipeline Concept
 
-The class assignment implements **Stage 1** of a three-stage recommender lifecycle I designed:
+The baseline implements **Stage 1** of a three-stage recommender lifecycle:
 
 | Stage | Driver | Description |
 |-------|--------|-------------|
@@ -89,6 +84,11 @@ At cold start, α ≈ 1, β ≈ 0. As behavioral history grows, β → 1 and α 
 ## Environment
 
 ```bash
-conda activate MLFINALGRADCOURSE
 pip install -r requirements.txt
 ```
+
+## License
+
+GNU Affero General Public License v3.0 (AGPL v3)
+
+For commercial licensing: fierier.heated9b@icloud.com

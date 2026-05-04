@@ -77,9 +77,9 @@ Each platform has a different behavioral feature set, but the same three-stage s
 - K choice: start with K=5, validate with leave-one-out or k-fold cross-validation
 - For Stage 2+, consider weighting behavioral features more heavily than cohort features in the distance function
 
-## Relationship to Class Assignment
+## Baseline
 
-`class_version/knn_classifier.py` is a direct implementation of Stage 1 using a simplified
+`legacy/knn_classifier.py` is a direct implementation of Stage 1 using a simplified
 demographic dataset (age, height, weight, gender → video game genre). It demonstrates the core
 KNN mechanics. The portfolio versions extend this into more realistic feature spaces and
 eventually add the behavioral layer described in Stage 2 and Stage 3.
