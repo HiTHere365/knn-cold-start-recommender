@@ -2,7 +2,7 @@
 
 ## Overview
 
-A new user has no behavioral history. A platform has to recommend something immediately anyway. This project implements the first stage of a three-stage recommender lifecycle and outlines how subsequent stages work as behavioral data accumulates.
+When a user signs up for a platform for the first time, they have no behavioral history: no clicks, no watch time, no saved content. The platform still needs to surface relevant recommendations immediately, which requires a different approach than the personalization models that take over once interaction data exists. This project implements the first stage of a three-stage recommender lifecycle and outlines how subsequent stages work as behavioral data accumulates.
 
 The pipeline design is an original concept developed by observing recommendation behavior across content platforms and reasoning about what a well-designed system would require. It is not a description of how any specific company operates internally.
 
